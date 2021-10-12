@@ -9,4 +9,3 @@
 
 ### Example 2. Callback 영상취득 예제
 - consol_camera_callback_ex
-
